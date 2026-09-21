@@ -1,5 +1,6 @@
 # faixas
 
+> **Fork de trabajo.** Este repositorio es un fork de [marcosberag/faixas](https://github.com/marcosberag/faixas) para la [reproducción independiente](https://github.com/marcosberag/faixas/issues/1) del pipeline; las contribuciones viven en los [PRs #2](https://github.com/marcosberag/faixas/pull/2) y [#3](https://github.com/marcosberag/faixas/pull/3) del upstream.
 Estimación, a partir de datos públicos, de qué franjas de protección contra incendios en
 Galicia tienen arbolado que la ley no permite.
 
